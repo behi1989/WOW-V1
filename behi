@@ -1,0 +1,14 @@
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+
+warp://104.18.215.241?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#behi1989✅
+warp://p1@104.23.123.199?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#behi 1✅
+warp://p1@104.18.220.231?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#behi 2✅
+warp://p2@104.18.54.4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#behi 3✅
+warp://p1@104.27.203.91?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@104.18.130.103#warp in warp 1✅
+warp://p1@104.18.181.30?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@104.17.130.56#warp in warp 2✅
+warp://p1@104.24.188.208?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp 1✅
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp 2✅
